@@ -35,7 +35,7 @@
 
 ### :woman_technologist: About Me :
 I am a Penetration Tester from Indonesia <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="30">.
-- :telescope: I’m working as a Bug Hunter and contributing to frontend and backend for building web applications and also a 3D/2D animation modeler.
+- :telescope: I’m working as a Bug Hunter and contributing to frontend and backend for building web applications and also a 3D/2D animation developer.
 
 - :seedling: Exploring Technical SEO Spesialist.
 
